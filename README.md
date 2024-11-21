@@ -1,2 +1,3 @@
-# Proyecto-Colaborativo-2
-Repositorio para el Proyecto Colaborativo.
+# Proyecto Colaborativo
+
+Este repositorio contiene los recursos y la documentación del Proyecto Colaborativo.
